@@ -30,3 +30,5 @@ AndroidSecurityDemo\.iml
 .gradle/buildOutputCleanup/cache.properties
 
 .gradle/vcs-1/gc.properties
+
+.DS_Store

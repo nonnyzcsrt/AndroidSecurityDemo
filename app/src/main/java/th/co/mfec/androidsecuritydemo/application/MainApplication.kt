@@ -10,7 +10,6 @@ import org.koin.android.ext.koin.androidFileProperties
 import org.koin.android.ext.koin.androidLogger
 import org.koin.core.context.startKoin
 import th.co.mfec.androidsecuritydemo.BuildConfig
-import th.co.mfec.androidsecuritydemo.utils.SecurityUtils
 import timber.log.Timber
 
 

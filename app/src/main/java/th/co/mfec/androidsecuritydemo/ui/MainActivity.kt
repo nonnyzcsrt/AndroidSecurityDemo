@@ -29,7 +29,7 @@ class MainActivity : BaseActivity() {
         setContentView(R.layout.activity_main)
 
         showSuccessDialog("", Keys.signatureKey())
-        
+
 
         initRecyclerView()
     }
