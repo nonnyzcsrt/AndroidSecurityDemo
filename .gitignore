@@ -18,3 +18,15 @@ app/app\.iml
 AndroidSecurityDemo\.iml
 
 *.iml
+
+*.bin
+
+*.lock
+
+.idea/
+
+.gradle/5.4.1/
+
+.gradle/buildOutputCleanup/cache.properties
+
+.gradle/vcs-1/gc.properties
